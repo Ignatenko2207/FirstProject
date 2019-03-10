@@ -6,6 +6,7 @@ public class ApplicationRunner {
 
 		System.out.println("I'm the best!!!");
 		
+		System.out.println("Yes! I'm realy the best!!!");
 	}
 
 }
